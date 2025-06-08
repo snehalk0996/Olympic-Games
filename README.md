@@ -5,6 +5,7 @@ This project is part of a data analysis module where I explored historical Olymp
 ## 📁 Project Structure
 
 - `Module_1_Report_Olympic_Games.ipynb`: The main notebook containing data analysis, visualizations, and insights.
+- `Dataset`: athlete_events.csv.zip
 - `README.md`: This file, describing the project.
 
 ## 📊 Objective
