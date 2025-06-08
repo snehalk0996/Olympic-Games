@@ -5,7 +5,6 @@ This project is part of a data analysis module where I explored historical Olymp
 ## 📁 Project Structure
 
 - `Module_1_Report_Olympic_Games.ipynb`: The main notebook containing data analysis, visualizations, and insights.
-- `data/`: (Optional) Folder for any datasets used in the project.
 - `README.md`: This file, describing the project.
 
 ## 📊 Objective
@@ -31,10 +30,3 @@ The goal of this project is to:
 - Gender-based participation trends.
 - Country-wise medal tally insights.
 - Visualization of athlete statistics and sports evolution.
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/olympic-games-analysis.git
-   cd olympic-games-analysis
